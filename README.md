@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thaís Alvarenga</h1>
-<h3 align="center">A creative technologist and narrative designer!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&size=25&pause=2000&color=F26565&background=FF600E00&center=true&random=false&width=435&lines=Extended+Reality+Developer;Digital+Narratology+Designer;3D+Environment+Designer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently working on **creating inclusive digital literacy courses/content in Honduras** and learning **AFrame and WebXR** to create digital experiences that are accessible through multiple devices.
 
