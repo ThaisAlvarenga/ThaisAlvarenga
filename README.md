@@ -29,7 +29,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=false)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ### 🎧 Music | Spotify Playing
